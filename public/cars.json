@@ -1,0 +1,166 @@
+{
+  "cars": [
+    {
+      "slug": "ferrari-california-convertible-red",
+      "brand": "Ferrari",
+      "model": "California Convertible",
+      "price_per_day": 725,
+      "color": "Red"
+    },
+    {
+      "slug": "porsche-911-turbo-s-white",
+      "brand": "Porsche",
+      "model": "911 Turbo S",
+      "price_per_day": 725,
+      "color": "Gray"
+    },
+    {
+      "slug": "porsche-911-turbo-s-orange",
+      "brand": "Porsche",
+      "model": "911 Turbo S",
+      "price_per_day": 725,
+      "color": "Orange"
+    },
+    {
+      "slug": "porsche-911-turbo-s-gray",
+      "brand": "Porsche",
+      "model": "911 Turbo S",
+      "price_per_day": 725,
+      "color": "Gray"
+    },
+    {
+      "slug": "porsche-911-gt3-rs-gold",
+      "brand": "Porsche",
+      "model": "911 GT3 RS",
+      "price_per_day": 825,
+      "color": "Gold"
+    },
+    {
+      "slug": "bentley-continental-gt-blue",
+      "brand": "Bentley",
+      "model": "Continental GT",
+      "price_per_day": 825,
+      "color": "Blue"
+    },
+    {
+      "slug": "bmw-m1-competition-white",
+      "brand": "BMW",
+      "model": "M1 Competition",
+      "price_per_day": 825,
+      "color": "Gray"
+    },
+    {
+      "slug": "alfa-romeo-4c-spider-yellow",
+      "brand": "Alfa Romeo",
+      "model": "4C Spider",
+      "price_per_day": 825,
+      "color": "Yellow"
+    },
+    {
+      "slug": "mclaren-p1-gtr-blue",
+      "brand": "Mclaren",
+      "model": "P1 GTR",
+      "price_per_day": 925,
+      "color": "Blue"
+    },
+    {
+      "slug": "lamborghini-aventador-orange",
+      "brand": "Lamborghini",
+      "model": "Aventador",
+      "price_per_day": 925,
+      "color": "Orange"
+    },
+    {
+      "slug": "bugatti-veyron-spyder-blue",
+      "brand": "Bugatti",
+      "model": "Veyron Spyder",
+      "price_per_day": 925,
+      "color": "Blue"
+    },
+    {
+      "slug": "chevrolet-corvette-white",
+      "brand": "Chevrolet",
+      "model": "Corvette",
+      "price_per_day": 925,
+      "color": "Gray"
+    },
+    {
+      "slug": "ferrari-california-red",
+      "brand": "Ferrari",
+      "model": "California",
+      "price_per_day": 725,
+      "color": "Red"
+    },
+    {
+      "slug": "rolls-royce-wraith-red",
+      "brand": "Rolls-Royce",
+      "model": "Wraith",
+      "price_per_day": 725,
+      "color": "Red"
+    },
+    {
+      "slug": "mercedes-benz-amg-gts-gray",
+      "brand": "Mercedes-benz",
+      "model": "AMG GTS",
+      "price_per_day": 725,
+      "color": "Gray"
+    }
+  ],
+  "brands": [
+    {
+      "slug": "ferrari",
+      "brand": "Ferrari",
+      "logo": "ferrari.svg"
+    },
+    {
+      "slug": "porsche",
+      "brand": "Porsche",
+      "logo": "porsche.svg"
+    },
+    {
+      "slug": "bentley",
+      "brand": "Bentley",
+      "logo": "bentley.svg"
+    },
+    {
+      "slug": "bmw",
+      "brand": "BMW",
+      "logo": "bmw.svg"
+    },
+    {
+      "slug": "alfa-romeo",
+      "brand": "Alfa Romeo",
+      "logo": "alfa-romeo.svg"
+    },
+    {
+      "slug": "mclaren",
+      "brand": "Mclaren",
+      "logo": "mclaren.svg"
+    },
+    {
+      "slug": "lamborghini",
+      "brand": "Lamborghini",
+      "logo": "lamborghini.svg"
+    },
+    {
+      "slug": "bugatti",
+      "brand": "Bugatti",
+      "logo": "bugatti.svg"
+    },
+    {
+      "slug": "chevrolet",
+      "brand": "Chevrolet",
+      "logo": "chevrolet.svg"
+    },
+    {
+      "slug": "rolls-royce",
+      "brand": "Rolls-Royce",
+      "logo": "rolls-royce.svg"
+    },
+    {
+      "slug": "mercedes-benz",
+      "brand": "Mercedes-benz",
+      "logo": "mercedes-benz.svg"
+    }
+  ]
+}
